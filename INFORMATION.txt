@@ -1,0 +1,4 @@
+﻿RWA - Revamped windows apps
+This is just a project in which I implemented what UWP applications do only in C#
+RWA(ПВП) - Переделанные виндовс приложения
+Это просто проект в котором я реализовал то что делают UWP приложения только на языке C#
